@@ -31,4 +31,4 @@ for i in range(0, 10000):
 
 compMean, compMedian, compMode = meanMedianMode(testList)
 print(compMean)
-print(time())
+
